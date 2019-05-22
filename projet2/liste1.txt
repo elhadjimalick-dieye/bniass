@@ -1,0 +1,11 @@
+17;malick201;mouhamed;1998-05-10;00000000;eldieye92@live.fr;present;exclue
+dsd;dddd;Alioune;0068-02-04;65656;eldieye92@live.fr;exclue;exclue
+12;malick20;Doudou;2019-05-09;8080808080;eldieye92@live.fr;present;present
+AA713;malick10;Elhadji malick ;2017-06-14;7712354684;ndieyene@gmail.com;present;present
+10;malick201;gueye;Alioune;1998-05-11;000000000;Ndieyene@gmail.com;present
+10;malick201;gueye;Alioune;1998-05-11;000000000;Ndieyene@gmail.com;present
+20;dieye;backary;Alioune;1998-05-17;000000000;eldieye92@live.fr;present
+20;dieye;backary;Alioune;1998-05-17;000000000;eldieye92@live.fr;present
+17;malick1000000;Elhadji malick ;Alioune;2000-09-27;000000000;eldieye92@live.fr;present
+P002;ndaw;fatou;Babacar;1979-02-10;000000000;Ndieyene@gmail.com;present
+P001;malick10;gueye;Alioune;1988-02-20;0124585555;Ndieyene@gmail.com;present
